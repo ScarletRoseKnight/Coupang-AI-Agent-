@@ -1,6 +1,5 @@
 ## 2. `app.py` (Updated)
 #파이썬 소스 코드의 함수명, 내부 주석, CLI 출력 텍스트 하단에 명확하게 영문 번역을 추가했습니다.  
-
 #The python functions are duplicated with English aliases, and all internal logic, system instructions, and system prints are thoroughly translated.
 
 import os
