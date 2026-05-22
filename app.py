@@ -12,7 +12,7 @@ import chromadb
 from chromadb.utils import embedding_functions
 
 # 1. 인프라 및 환경 변수 로드 / Load Infrastructure and Environment Variables
-load_dotenv()
+load_dotenv(dotenv_path="OpenAIapi.env")
 api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=api_key)
 
