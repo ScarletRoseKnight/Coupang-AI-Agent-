@@ -1,0 +1,47 @@
+[
+  {
+    "id": "p001",
+    "name": "종근당건강 프로메가 알티지 오메가3 (60캡슐) / Chong Kun Dang Promega rTG Omega-3 (60 Capsules)",
+    "price": 18500,
+    "category": "영양제 / Supplements",
+    "delivery": "로켓배송 / Rocket Delivery",
+    "rating": 4.8,
+    "review_count": 1420
+  },
+  {
+    "id": "p002",
+    "name": "센트룸 실버 포 맨 멀티비타민 (50정) / Centrum Silver For Men Multivitamin (50 Tablets)",
+    "price": 24000,
+    "category": "영양제 / Supplements",
+    "delivery": "로켓배송 / Rocket Delivery",
+    "rating": 4.7,
+    "review_count": 850
+  },
+  {
+    "id": "p003",
+    "name": "락토핏 생유산균 골드 (80포) / Lacto-Fit Live Lactobacillus Gold (80 Packets)",
+    "price": 12900,
+    "category": "영양제 / Supplements",
+    "delivery": "새벽배송 / Dawn Delivery",
+    "rating": 4.9,
+    "review_count": 3200
+  },
+  {
+    "id": "p004",
+    "name": "애플 아이폰 15 프로 256GB 자급제 / Apple iPhone 15 Pro 256GB (Unlocked)",
+    "price": 1550000,
+    "category": "전자기기 / Electronics",
+    "delivery": "로켓배송 / Rocket Delivery",
+    "rating": 4.9,
+    "review_count": 450
+  },
+  {
+    "id": "p005",
+    "name": "삼성전자 갤럭시 S24 울트라 256GB 자급제 / Samsung Galaxy S24 Ultra 256GB (Unlocked)",
+    "price": 1490000,
+    "category": "전자기기 / Electronics",
+    "delivery": "로켓배송 / Rocket Delivery",
+    "rating": 4.8,
+    "review_count": 610
+  }
+]
