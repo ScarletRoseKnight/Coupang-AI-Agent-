@@ -2,7 +2,7 @@
 
 - 본 프로젝트는 초당 수만 건의 대규모 트래픽과 수억 개의 상품 카탈로그 환경을 가정하고 설계된 쿠팡 차세대 AI-First 이커머스 쇼핑 에이전트의 MVP 아키텍처입니다.
 
-  - This project represents the MVP architecture of Coupang's next-generation AI-First e-commerce shopping agent, designed under the assumption of high-scale traffic (tens of thousands of requests per second) and hundreds of millions of product catalogs.
+This project represents the MVP architecture of Coupang's next-generation AI-First e-commerce shopping agent, designed under the assumption of high-scale traffic (tens of thousands of requests per second) and hundreds of millions of product catalogs.
 
 ## 🛠️ 핵심 아키텍처 (Key Architecture)
 - **Vector DB 기반 Semantic Search (Vector DB-based Semantic Search):** 문자열 단순 매칭 한계를 극복하기 위해 `ChromaDB`와 오픈AI의 `text-embedding-3-small` 모델을 결합하여, 유저 의도와 문맥 중심의 상품 검색 파이프라인(Retriever)을 구현했습니다.
